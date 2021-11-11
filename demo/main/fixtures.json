@@ -1,0 +1,1 @@
+[{"model": "main.mymodel", "pk": 1, "fields": {"field": "some string"}}, {"model": "main.mymodel", "pk": 2, "fields": {"field": ["list string 1", "list string 2"]}}, {"model": "main.mymodel", "pk": 3, "fields": {"field": {"some_key1": "value 1", "some_key2": "value 2"}}}]
